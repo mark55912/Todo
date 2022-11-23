@@ -4,11 +4,11 @@ Todo is a small DEB package that can be used to create a to do list.
 ## Installation
 
 $ dpkg -i package 
-To run the application after installation, just type Todo in the terminal.
+
 
 ## Usage
 
-Use to create a list of task that needs to be completed.
+Use to create a list of task that needs to be completed. To run the application after installation, just type Todo in the terminal.
 
 ## License
 
